@@ -1,0 +1,1 @@
+Just navigate to http://127.0.0.1:8090/_/?#/collections?collectionId=hk8g3e54fhnaogv&filter=&sort=-created and try deleting the message
